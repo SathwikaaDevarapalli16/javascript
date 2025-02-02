@@ -1,1 +1,1 @@
-# javascript
+Simple javascript counter program.
